@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WasilIslam
-- 👀 I’m interested in mobile apps and web development
-- 🌱 I’m currently learning node js
+- 👀 I’m an experienced web and mobile developer
 - 💞️ I’m looking to collaborate on some cooler stuffs
 - 📫 How to reach me wasilislam456@gmail.com
 
