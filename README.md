@@ -21,8 +21,8 @@ I thrive on challenges and believe that every problem is a chance to learn and g
 
 I'm excited about coding, problem-solving, and collaborating on innovative projects. Whether it's coding, freelancing, or startup mentorship, I'm here to help.
 
-- [Portfolio](https://cuthours.com)
+- [Company](https://cuthours.com)
 - [LinkedIn](https://www.linkedin.com/in/wasil-islam)
-- Email: wasil.islam@example.com
+- Email: hi@cuthours.com
 
 Let's turn ideas into reality! Reach out, and let's create something amazing together.
