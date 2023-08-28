@@ -1,9 +1,6 @@
 # Wasil Islam | Software Engineer | Competitive Programming Enthusiast
 
 Welcome to my GitHub profile! I'm Wasil Islam, a passionate software engineer with a proven track record in coding, freelancing, and competitive programming.
-
-![Wasil Islam](https://your-image-url.com)
-
 ## About Me
 
 I thrive on challenges and believe that every problem is a chance to learn and grow. My coding enthusiasm extends to competitive programming, where I sharpen my skills and stay updated with the latest algorithms.
