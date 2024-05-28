@@ -23,6 +23,7 @@ I'm excited about coding, problem-solving, and collaborating on innovative proje
 
 - [Company](https://cuthours.com)
 - [LinkedIn](https://www.linkedin.com/in/wasil-islam)
-- Email: hi@cuthours.com
+- Email: hi@cuthours.com, wasilislam456@gmail.com,
+- +923101457770
 
 Let's turn ideas into reality! Reach out, and let's create something amazing together.
